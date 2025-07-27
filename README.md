@@ -1,2 +1,2 @@
 # California-Housing-Price
-In this project we are predicting Housing prices in California city based on Dragon data set, we had used Linear Regression for Predicting model.
+In this project we are predicting Housing prices in California city based on Dragon dataset, we had used Linear Regression for predicting model.
